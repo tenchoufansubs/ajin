@@ -35,23 +35,23 @@ Comment: 0,0:04:52.04,0:14:22.98,,,0,0,0,,{:chapter}Part A
 Comment: 0,0:14:22.98,0:22:26.95,,,0,0,0,,{:chapter}Part B
 Comment: 0,0:22:26.95,0:23:56.97,,,0,0,0,,{:insert}ED.ass
 Comment: 0,0:23:56.97,0:24:26.96,,,0,0,0,,{:chapter}Next Episode
-Dialogue: 0,0:00:31.96,0:00:33.54,Default,NNAP,0,0,0,,What's going on!?
+Dialogue: 0,0:00:31.96,0:00:33.54,Default,NNAP,0,0,0,,What’s going on!?
 Dialogue: 0,0:00:33.54,0:00:35.16,Default,NNAP,0,0,0,,Kill him at once!
-Dialogue: 0,0:00:35.65,0:00:37.69,Default,NNAP,0,0,0,,They aren't dying!
-Dialogue: 0,0:00:38.21,0:00:40.18,Default,NNAP,0,0,0,,It's only one enemy!
+Dialogue: 0,0:00:35.65,0:00:37.69,Default,NNAP,0,0,0,,He’s not dying!
+Dialogue: 0,0:00:38.21,0:00:40.18,Default,NNAP,0,0,0,,It’s only one enemy!
 Dialogue: 0,0:00:40.32,0:00:42.56,Default,NNAP,0,0,0,,It must be the monster.
-Dialogue: 0,0:00:44.92,0:00:47.86,Default,NNAP,0,0,0,,Our bullets are not useful against those monsters!
-Dialogue: 0,0:00:48.50,0:00:51.04,Default,NNAP,0,0,0,,Don't fuck me! Aim for his head!
+Dialogue: 0,0:00:44.92,0:00:47.86,Default,NNAP,0,0,0,,Our bullets are useless against him!
+Dialogue: 0,0:00:48.50,0:00:51.04,Default,NNAP,0,0,0,,Don’t fuck me! Aim for his head!
 Dialogue: 0,0:01:11.23,0:01:13.25,Default,NNAP,0,0,0,,Go, kill him!
 Dialogue: 0,0:01:13.25,0:01:14.85,Default,NNAP,0,0,0,,I will!
 Dialogue: 0,0:01:33.17,0:01:34.19,Default,NNAP,0,0,0,,Hey.
-Dialogue: 0,0:01:36.76,0:01:37.55,Default,NNAP,0,0,0,,Don't let your guard down.
-Dialogue: 0,0:01:38.85,0:01:40.79,Default,NNAP,0,0,0,,It's the army of God!
-Dialogue: 0,0:01:42.56,0:01:43.83,Default,NNAP,0,0,0,,Don't let your guard down!
-Dialogue: 0,0:02:12.57,0:02:14.22,Default,NNAP,0,0,0,,What's this "Army of God"!? {\alpha&FF&}Take this! Take this! Take this...
-Dialogue: 0,0:02:14.22,0:02:15.26,Default,NNAP,0,0,0,,What's this "Army of God"!? Take this! {\alpha&FF&}Take this! Take this...
-Dialogue: 0,0:02:15.26,0:02:16.36,Default,NNAP,0,0,0,,What's this "Army of God"!? Take this! Take this! {\alpha&FF&}Take this...
-Dialogue: 0,0:02:16.36,0:02:17.52,Default,NNAP,0,0,0,,What's this "Army of God"!? Take this! Take this! Take this...
+Dialogue: 0,0:01:36.76,0:01:37.55,Default,NNAP,0,0,0,,Don’t let your guard down.
+Dialogue: 0,0:01:38.85,0:01:40.79,Default,NNAP,0,0,0,,It’s the Soldier of God!
+Dialogue: 0,0:01:42.56,0:01:43.83,Default,NNAP,0,0,0,,Don’t let your guard down!
+Dialogue: 0,0:02:12.57,0:02:14.22,Default,NNAP,0,0,0,,What’s this “Soldier of God”!? {\alpha&FF&}Take this! Take this! Take this...
+Dialogue: 0,0:02:14.22,0:02:15.26,Default,NNAP,0,0,0,,What’s this “Soldier of God”!? Take this! {\alpha&FF&}Take this! Take this...
+Dialogue: 0,0:02:15.26,0:02:16.36,Default,NNAP,0,0,0,,What’s this “Soldier of God”!? Take this! Take this! {\alpha&FF&}Take this...
+Dialogue: 0,0:02:16.36,0:02:17.52,Default,NNAP,0,0,0,,What’s this “Soldier of God”!? Take this! Take this! Take this...
 Dialogue: 0,0:02:18.16,0:02:20.53,Default,NNAP,0,0,0,,I killed God!
 Dialogue: 0,0:02:52.98,0:02:53.27,Default,NNAP,0,0,0,,Hurry up! {\alpha&FF&}Hurry up! Hurry Up! Hurry Up!
 Dialogue: 0,0:02:53.27,0:02:53.58,Default,NNAP,0,0,0,,Hurry up! Hurry up! {\alpha&FF&}Hurry Up! Hurry Up!
@@ -61,30 +61,30 @@ Dialogue: 0,0:04:52.06,0:04:57.06,Episode Title,,0,0,0,,{\blur2\c&H000000&\pos(1
 Dialogue: 1,0:04:52.06,0:04:57.06,Episode Title,,0,0,0,,{\blur0.6\pos(199,310)\c&H000000&\t(0,200,1,\c&H0000B8&)}The history
 Dialogue: 0,0:04:52.23,0:04:57.06,Episode Title,,0,0,0,,{\fad(1000,0)\blur4\pos(454,373)\alpha&H90&\c&HFFFFFF&}of relationship we never had
 Dialogue: 1,0:04:52.23,0:04:57.06,Episode Title,,0,0,0,,{\fad(1000,0)\blur0.6\pos(454,373)}of relationship we never had
-Dialogue: 0,0:05:43.76,0:05:46.07,Default,,0,0,0,,{\pos(640,630)}You're going on Saturday to your test, right?
+Dialogue: 0,0:05:43.76,0:05:46.07,Default,,0,0,0,,{\pos(640,630)}You’re going to your test on Saturday, right?
 Dialogue: 0,0:05:46.07,0:05:46.90,Default,,0,0,0,,{\pos(640,630)}How are you feeling?
-Dialogue: 0,0:05:46.90,0:05:48.48,Default,,0,0,0,,{\pos(640,630)}I'm fine.
+Dialogue: 0,0:05:46.90,0:05:48.48,Default,,0,0,0,,{\pos(640,630)}I’m fine.
 Dialogue: 0,0:05:50.88,0:05:53.04,Default,,0,0,0,,{\pos(640,630)}I can expect a good result, right?
 Dialogue: 0,0:05:53.61,0:05:54.30,Default,,0,0,0,,{\pos(640,630)}Yes.
-Dialogue: 0,0:05:54.66,0:05:55.50,Default,,0,0,0,,{\pos(640,630)}Don't worry.
+Dialogue: 0,0:05:54.66,0:05:55.50,Default,,0,0,0,,{\pos(640,630)}Don’t worry.
 Dialogue: 0,0:05:58.80,0:06:00.40,Default,,0,0,0,,Thanks for the food.
-Dialogue: 0,0:06:03.05,0:06:03.80,Default,,0,0,0,,I'm leaving.
+Dialogue: 0,0:06:03.05,0:06:03.80,Default,,0,0,0,,I’m leaving.
 Dialogue: 0,0:06:15.30,0:06:16.58,Default,,0,0,0,,Nagai-kun, {\alpha&FF&}do you study this early?
 Dialogue: 0,0:06:16.58,0:06:17.85,Default,,0,0,0,,Nagai-kun, do you study this early?
-Dialogue: 0,0:06:18.13,0:06:19.22,Default,,0,0,0,,Yeah, {\alpha&FF&}I don't want to waste my time.
-Dialogue: 0,0:06:19.22,0:06:21.00,Default,,0,0,0,,Yeah, I don't want to waste my time.
+Dialogue: 0,0:06:18.13,0:06:19.22,Default,,0,0,0,,Yeah, {\alpha&FF&}I don’t want to waste my time.
+Dialogue: 0,0:06:19.22,0:06:21.00,Default,,0,0,0,,Yeah, I don’t want to waste my time.
 Dialogue: 0,0:06:21.23,0:06:23.75,Default,,0,0,0,,Incredible, as expected from someone who wants to be a doctor.
 Dialogue: 0,0:06:23.75,0:06:26.48,Default,,0,0,0,,Those who study medicine study different.
 Dialogue: 0,0:06:28.62,0:06:31.51,Default,,0,0,0,,{\i1}Why do I have to bear with his sarcasm?{\i0}
-Dialogue: 0,0:06:32.07,0:06:35.60,Default,,0,0,0,,{\i1}I'm just giving my best to be a better person.{\i0}
+Dialogue: 0,0:06:32.07,0:06:35.60,Default,,0,0,0,,{\i1}I’m just giving my best to be a better person.{\i0}
 Dialogue: 0,0:06:40.12,0:06:41.01,Default,,0,0,0,,{\i1}Kai.{\i0}
 Dialogue: 0,0:06:44.77,0:06:47.00,Default,,0,0,0,,Do you know him?
 Dialogue: 0,0:06:47.00,0:06:48.71,Default,,0,0,0,,Of course not.
-Dialogue: 0,0:06:48.71,0:06:50.47,Default,,0,0,0,,He's a weird guy.
+Dialogue: 0,0:06:48.71,0:06:50.47,Default,,0,0,0,,He’s a weird guy.
 Dialogue: 0,0:06:51.38,0:06:53.80,Default,,0,0,0,,Yes he is.
 Dialogue: 0,0:06:54.45,0:06:57.14,Default,,0,0,0,,Imagine he was an Ajin.
-Dialogue: 0,0:06:57.32,0:06:59.60,Default,,0,0,0,,It's hard to believe he's a human like us.
-Dialogue: 0,0:07:00.40,0:07:02.77,Default,,0,0,0,,That's something that doesn't have to do with us.
+Dialogue: 0,0:06:57.32,0:06:59.60,Default,,0,0,0,,It’s hard to believe he’s a human like us.
+Dialogue: 0,0:07:00.40,0:07:02.77,Default,,0,0,0,,That’s something that doesn’t have to do with us.
 Dialogue: 0,0:07:05.09,0:07:08.38,Default,Teacher,0,0,0,,Well, open your books in page 247.
 Dialogue: 0,0:07:08.38,0:07:11.04,Default,Teacher,0,0,0,,About the discovery of the Ajin.
 Dialogue: 0,0:07:11.04,0:07:13.44,Default,Teacher,0,0,0,,This is apart from the entrance exam.
@@ -95,38 +95,38 @@ Dialogue: 0,0:07:19.78,0:07:22.95,Default,Teacher,0,0,0,,Ajin are immortal creat
 Dialogue: 0,0:07:22.95,0:07:25.38,Default,Teacher,0,0,0,,It is said that they can’t die.
 Dialogue: 0,0:07:25.75,0:07:28.00,Default,Teacher,0,0,0,,Although that’s not completely proven.
 Dialogue: 0,0:07:28.42,0:07:33.96,Default,Teacher,0,0,0,,Among other things, it is said that they have very characteristic voices,
-Dialogue: 0,0:07:33.96,0:07:37.55,Default,Teacher,0,0,0,,{\3c&H450700&\an8}but the information hasn’t been disclosed to the public…
+Dialogue: 0,0:07:33.96,0:07:37.55,Default,Teacher,0,0,0,,{\3c&H450700&\an8}but the information hasn’t been disclosed to the public...
 Dialogue: 0,0:07:35.21,0:07:38.09,Default,,0,0,0,,Look, an experiment with an Ajin.
 Dialogue: 0,0:07:38.08,0:07:39.10,Default,,0,0,0,,An experiment?
 Dialogue: 0,0:07:40.11,0:07:41.60,Default,,0,0,0,,It must be a hoax.
 Dialogue: 0,0:07:43.08,0:07:48.47,Default,Teacher,0,0,0,,The first contact with an Ajin was in Africa, 17 years ago.
 Dialogue: 0,0:07:48.47,0:07:51.28,Default,Teacher,0,0,0,,The year you were born in.
-Dialogue: 0,0:07:52.66,0:07:56.95,Default,Teacher,0,0,0,,They were immortal soldiers, in that place known as “God’s Army”.
-Dialogue: 0,0:07:57.56,0:08:01.57,Default,Teacher,0,0,0,,Once they were caught by the American Army, the truth was discovered.
+Dialogue: 0,0:07:52.66,0:07:56.95,Default,Teacher,0,0,0,,He was an immortal soldier, known as “Soldier of God” in that place.
+Dialogue: 0,0:07:57.56,0:08:01.57,Default,Teacher,0,0,0,,Once he was caught by the American Army, the truth was discovered.
 Dialogue: 0,0:08:01.57,0:08:06.63,Default,Teacher,0,0,0,,Although there were efforts to hide it,\Nthe importance of the issue didn’t allow it.
 Dialogue: 0,0:08:06.97,0:08:09.56,Default,Teacher,0,0,0,,At present day, it has been verified the existence of 46 all around the world,
-Dialogue: 0,0:08:09.56,0:08:12.80,Default,Teacher,0,0,0,,and in japan there are 2 of them.
-Dialogue: 0,0:08:12.80,0:08:16.17,Default,Teacher,0,0,0,,And it has been thought that there are Ajin that have not been located.
+Dialogue: 0,0:08:09.56,0:08:12.80,Default,Teacher,0,0,0,,and in Japan there are 2 of them.
+Dialogue: 0,0:08:12.80,0:08:16.17,Default,Teacher,0,0,0,,It has been thought that there are Ajin that have not been located.
 Dialogue: 0,0:08:16.17,0:08:19.74,Default,Teacher,0,0,0,,At the end of the day, it’s known\Nthat they are Ajins if they don’t die.
-Dialogue: 0,0:08:19.74,0:08:23.71,Default,Teacher,0,0,0,,Although, the possibility of an Ajin being in this place…
+Dialogue: 0,0:08:19.74,0:08:23.71,Default,Teacher,0,0,0,,Although, the possibility of an Ajin being in this place...
 Dialogue: 0,0:08:23.71,0:08:24.68,Default,Teacher,0,0,0,,Isn’t 0.
 Dialogue: 0,0:08:27.90,0:08:29.20,Default,Teacher,0,0,0,,Watanabe-kun.
 Dialogue: 0,0:08:30.09,0:08:34.99,Default,Watanabe,0,0,0,,I heard they give a lot of money as reward if you catch an Ajin.
-Dialogue: 0,0:08:36.08,0:08:38.44,Default,Teacher,0,0,0,,The money thing must be a rumor, but
-Dialogue: 0,0:08:38.44,0:08:40.49,Default,Teacher,0,0,0,,there must be some kind of reward.
-Dialogue: 0,0:08:41.16,0:08:43.47,Default,Teacher,0,0,0,,For example, the ownership of a captured pre-
+Dialogue: 0,0:08:36.08,0:08:38.44,Default,Teacher,0,0,0,,The money thing must be a rumor,
+Dialogue: 0,0:08:38.44,0:08:40.49,Default,Teacher,0,0,0,,but there must be some kind of reward.
+Dialogue: 0,0:08:41.16,0:08:43.47,Default,Teacher,0,0,0,,For example, the ownership of a captured pre—
 Dialogue: 0,0:08:43.47,0:08:44.40,Default,Nagai,0,0,0,,Prey?
 Dialogue: 0,0:08:46.48,0:08:48.28,Default,Teacher,0,0,0,,Nagai-kun, do you have any questions?
-Dialogue: 0,0:08:49.64,0:08:50.65,Default,Nagai,0,0,0,,N-{\alpha&FF&}No, It's nothing.
-Dialogue: 0,0:08:50.65,0:08:51.40,Default,Nagai,0,0,0,,N-No, {\alpha&FF&}It's nothing.
-Dialogue: 0,0:08:51.40,0:08:52.45,Default,Nagai,0,0,0,,N-No, It's nothing.
+Dialogue: 0,0:08:49.64,0:08:50.65,Default,Nagai,0,0,0,,N-{\alpha&FF&}No, it’s nothing.
+Dialogue: 0,0:08:50.65,0:08:51.40,Default,Nagai,0,0,0,,N-No, {\alpha&FF&}it’s nothing.
+Dialogue: 0,0:08:51.40,0:08:52.45,Default,Nagai,0,0,0,,N-No, it’s nothing.
 Dialogue: 0,0:08:52.45,0:08:54.16,Default,Teacher,0,0,0,,You must have a question.
-Dialogue: 0,0:08:58.43,0:08:59.40,Default,Nagai,0,0,0,,Um... {\alpha&FF&}Ajin aren't human?
-Dialogue: 0,0:08:59.40,0:09:01.93,Default,Nagai,0,0,0,,Um... Ajin aren't human?
-Dialogue: 0,0:09:02.24,0:09:04.04,Default,Teacher,0,0,0,,Huh? {\alpha&FF&}That's obvious.
-Dialogue: 0,0:09:04.04,0:09:05.14,Default,Teacher,0,0,0,,Huh? That's obvious.
-Dialogue: 0,0:09:05.41,0:09:07.17,Default,Teacher,0,0,0,,They're a new species.
-Dialogue: 0,0:09:07.17,0:09:08.71,Default,Nagai,0,0,0,,You're right.
+Dialogue: 0,0:08:58.43,0:08:59.40,Default,Nagai,0,0,0,,Um... {\alpha&FF&}Ajin aren’t human?
+Dialogue: 0,0:08:59.40,0:09:01.93,Default,Nagai,0,0,0,,Um... Ajin aren’t human?
+Dialogue: 0,0:09:02.24,0:09:04.04,Default,Teacher,0,0,0,,Huh? {\alpha&FF&}That’s obvious.
+Dialogue: 0,0:09:04.04,0:09:05.14,Default,Teacher,0,0,0,,Huh? That’s obvious.
+Dialogue: 0,0:09:05.41,0:09:07.17,Default,Teacher,0,0,0,,They’re a new species.
+Dialogue: 0,0:09:07.17,0:09:08.71,Default,Nagai,0,0,0,,You’re right.
 Dialogue: 0,0:09:10.54,0:09:13.59,Default,Teacher,0,0,0,,Now, about the use of the Ajin.
 Dialogue: 0,0:09:36.04,0:09:39.60,Default,Nagai,0,0,0,,I should take care of this type of relationships.
 Dialogue: 0,0:09:45.63,0:09:47.68,Default,,0,0,0,,{\blur3\alpha&H80&\3c&HFFFFFF&}An experiment with an Ajin.
@@ -137,81 +137,81 @@ Dialogue: 0,0:09:57.48,0:09:58.82,Default,,0,0,0,,This is like...
 Dialogue: 0,0:10:04.59,0:10:06.41,Default - Flashback,,0,0,0,,{\fad(100,200)}Onii-chan.
 Dialogue: 0,0:10:06.76,0:10:08.75,Default - Flashback,,0,0,0,,{\fad(100,200)}Why has it died?
 Dialogue: 0,0:10:11.56,0:10:14.71,Default - Flashback,,0,0,0,,{\fad(100,200)}Mom said it was a defective product.
-Dialogue: 0,0:10:16.07,0:10:18.00,Default - Flashback,,0,0,0,,{\fad(100,200)}If you're a defective product, you die?
+Dialogue: 0,0:10:16.07,0:10:18.00,Default - Flashback,,0,0,0,,{\fad(100,200)}If you’re a defective product, you die?
 Dialogue: 0,0:10:18.45,0:10:21.08,Default - Flashback,,0,0,0,,{\fad(100,200)}It was sick, there was nothing we could do.
-Dialogue: 0,0:10:23.76,0:10:27.11,Default,,0,0,0,,{\an8\fscx75\fscy75}TL Note: I think that he's referring to Ajin's in this part.
+Dialogue: 0,0:10:23.76,0:10:27.11,Default,,0,0,0,,{\an8\fscx75\fscy75}TL Note: I think that he’s referring to Ajins in this part.
 Dialogue: 0,0:10:23.76,0:10:27.11,Default - Flashback,,0,0,0,,{\fad(100,200)}Now that I think about it... Why do they die?
 Dialogue: 0,0:10:28.00,0:10:30.10,Default - Flashback,,0,0,0,,{\fad(100,200)}Even, without dying...
 Dialogue: 0,0:10:33.74,0:10:34.73,Default - Flashback,,0,0,0,,{\fad(100,200)}Who are you?!
 Dialogue: 0,0:10:56.48,0:10:59.31,Default,,0,0,0,,You seem fine.
-Dialogue: 0,0:10:59.31,0:11:01.10,Default,,0,0,0,,I'm not so bad.
-Dialogue: 0,0:11:01.10,0:11:03.59,Default,,0,0,0,,If I was good, I wouldn't be here.
+Dialogue: 0,0:10:59.31,0:11:01.10,Default,,0,0,0,,I’m not so bad.
+Dialogue: 0,0:11:01.10,0:11:03.59,Default,,0,0,0,,If I was good, I wouldn’t be here.
 Dialogue: 0,0:11:04.84,0:11:05.93,Default,,0,0,0,,I see...
-Dialogue: 0,0:11:07.01,0:11:07.96,Default,,0,0,0,,So... {\alpha&FF&}What're you doing here? Shouldn't you be in your reinforcement academy?
-Dialogue: 0,0:11:07.96,0:11:09.00,Default,,0,0,0,,So... What're you doing here? {\alpha&FF&}Shouldn't you be in your reinforcement academy?
-Dialogue: 0,0:11:09.00,0:11:11.15,Default,,0,0,0,,So... What're you doing here? Shouldn't you be in your reinforcement academy?
+Dialogue: 0,0:11:07.01,0:11:07.96,Default,,0,0,0,,So... {\alpha&FF&}What’re you doing here? Shouldn’t you be in your reinforcement academy?
+Dialogue: 0,0:11:07.96,0:11:09.00,Default,,0,0,0,,So... What’re you doing here? {\alpha&FF&}Shouldn’t you be in your reinforcement academy?
+Dialogue: 0,0:11:09.00,0:11:11.15,Default,,0,0,0,,So... What’re you doing here? Shouldn’t you be in your reinforcement academy?
 Dialogue: 0,0:11:11.15,0:11:14.86,Default,,0,0,0,,We made a tomb for a dog when we were kids.
 Dialogue: 0,0:11:15.08,0:11:17.24,Default,,0,0,0,,Do you remember that?
 Dialogue: 0,0:11:17.24,0:11:18.54,Default,,0,0,0,,If you remember something...
 Dialogue: 0,0:11:19.80,0:11:20.98,Default,,0,0,0,,Just as I thought...
-Dialogue: 0,0:11:21.95,0:11:24.87,Default,,0,0,0,,It's impossible for you to come without needing something.
+Dialogue: 0,0:11:21.95,0:11:24.87,Default,,0,0,0,,It’s impossible for you to come without needing something.
 Dialogue: 0,0:11:27.80,0:11:30.40,Default,,0,0,0,,Have you seen Kai-san lately?
 Dialogue: 0,0:11:30.40,0:11:31.52,Default,,0,0,0,,Eh?
-Dialogue: 0,0:11:31.52,0:11:33.70,Default,,0,0,0,,No, I haven't.
+Dialogue: 0,0:11:31.52,0:11:33.70,Default,,0,0,0,,No, I haven’t.
 Dialogue: 0,0:11:35.32,0:11:37.00,Default,,0,0,0,,I want to see Kai-san.
 Dialogue: 0,0:11:41.60,0:11:42.76,Default - Flashback,,0,0,0,,Kai, how is it?
 Dialogue: 0,0:11:43.22,0:11:44.88,Default - Flashback,,0,0,0,,I got it!
-Dialogue: 0,0:11:45.20,0:11:48.94,Default - Flashback,,0,0,0,,Incredible! It's a Nokogiri scarab!
+Dialogue: 0,0:11:45.20,0:11:48.94,Default - Flashback,,0,0,0,,Incredible! It’s a Nokogiri scarab!
 Dialogue: 0,0:11:52.96,0:11:54.12,Default - Flashback,,0,0,0,,Kei-chan, {\alpha&FF&}give me your phone.
 Dialogue: 0,0:11:54.12,0:11:56.44,Default - Flashback,,0,0,0,,Kei-chan, give me your phone.
 Dialogue: 0,0:11:56.77,0:11:57.08,Default - Flashback,,0,0,0,,W-{\alpha&FF&}Why?
 Dialogue: 0,0:11:57.08,0:11:57.90,Default - Flashback,,0,0,0,,W-Why?
-Dialogue: 0,0:11:57.90,0:11:59.69,Default - Flashback,,0,0,0,,I will erase Kaito's e-mail.
+Dialogue: 0,0:11:57.90,0:11:59.69,Default - Flashback,,0,0,0,,I will erase Kaito’s e-mail.
 Dialogue: 0,0:12:00.68,0:12:02.49,Default - Flashback,,0,0,0,,If you want to become a good human being,
 Dialogue: 0,0:12:02.92,0:12:05.36,Default - Flashback,,0,0,0,,you must choose better the people you get along with.
 Dialogue: 0,0:12:08.64,0:12:11.34,Default,,0,0,0,,And to think we were such good friends...
-Dialogue: 0,0:12:11.65,0:12:12.76,Default,,0,0,0,,Well... {\alpha&FF&}We're all occupied now.
-Dialogue: 0,0:12:12.76,0:12:14.41,Default,,0,0,0,,Well... We're all occupied now.
-Dialogue: 0,0:12:14.41,0:12:17.30,Default,,0,0,0,,My brother should become a "good human being", right?
+Dialogue: 0,0:12:11.65,0:12:12.76,Default,,0,0,0,,Well... {\alpha&FF&}We’re all occupied now.
+Dialogue: 0,0:12:12.76,0:12:14.41,Default,,0,0,0,,Well... We’re all occupied now.
+Dialogue: 0,0:12:14.41,0:12:17.30,Default,,0,0,0,,My brother should become a “good human being”, right?
 Dialogue: 0,0:12:17.86,0:12:19.09,Default,,0,0,0,,Um... Eri, {\alpha&FF&}do you really not remember a thing?
 Dialogue: 0,0:12:19.09,0:12:20.25,Default,,0,0,0,,Um... Eri, do you really not remember a thing?
-Dialogue: 0,0:12:20.72,0:12:21.58,Default,,0,0,0,,When we did the tomb for the dog-
-Dialogue: 0,0:12:21.58,0:12:23.48,Default,,0,0,0,,{\3c&H450700&}I don't remember things that happened so long ago!
-Dialogue: 0,0:12:24.97,0:12:26.04,Default,,0,0,0,,Why don't you just go? {\alpha&FF&}Don't you have things to do?
-Dialogue: 0,0:12:26.04,0:12:27.80,Default,,0,0,0,,Why don't you just go? Don't you have things to do?
-Dialogue: 0,0:12:37.16,0:12:39.69,Default,,0,0,0,,Nagai-san, It's time to extract blood.
+Dialogue: 0,0:12:20.72,0:12:21.58,Default,,0,0,0,,When we did the tomb for the dog—
+Dialogue: 0,0:12:21.58,0:12:23.48,Default,,0,0,0,,{\3c&H450700&}I don’t remember things that happened so long ago!
+Dialogue: 0,0:12:24.97,0:12:26.04,Default,,0,0,0,,Why don’t you just go? {\alpha&FF&}Don’t you have things to do?
+Dialogue: 0,0:12:26.04,0:12:27.80,Default,,0,0,0,,Why don’t you just go? Don’t you have things to do?
+Dialogue: 0,0:12:37.16,0:12:39.69,Default,,0,0,0,,Nagai-san, It’s time to extract blood.
 Dialogue: 0,0:12:41.19,0:12:42.84,Default,,0,0,0,,Oh, those are nice.
 Dialogue: 0,0:12:42.84,0:12:44.28,Default,,0,0,0,,{\t(840,0,1,\c&H000000&)}Throw them to the trash.
 Dialogue: 0,0:12:49.18,0:12:51.64,Default,,0,0,0,,Become a good human being...
-Dialogue: 0,0:12:51.64,0:12:54.59,Default,,0,0,0,,I've been doing just the necessary to achieve that.
-Dialogue: 0,0:12:54.59,0:12:56.20,Default,,0,0,0,,I've chosen only what I need.
+Dialogue: 0,0:12:51.64,0:12:54.59,Default,,0,0,0,,I’ve been doing just the necessary to achieve that.
+Dialogue: 0,0:12:54.59,0:12:56.20,Default,,0,0,0,,I’ve chosen only what I need.
 Dialogue: 0,0:12:58.21,0:12:59.97,Default,,0,0,0,,And there was when...
 Dialogue: 0,0:12:59.97,0:13:00.61,Default,,0,0,0,,Ah!
 Dialogue: 0,0:13:02.58,0:13:04.13,Default,,0,0,0,,The things that are not necessary...
-Dialogue: 0,0:13:04.30,0:13:05.28,Default,,0,0,0,,{\an1}Oh? {\alpha&FF&}Nagai-Kun?
-Dialogue: 0,0:13:05.28,0:13:05.92,Default,,0,0,0,,{\an1}Oh? Nagai-Kun?
+Dialogue: 0,0:13:04.30,0:13:05.28,Default,,0,0,0,,{\an1}Oh? {\alpha&FF&}Nagai-kun?
+Dialogue: 0,0:13:05.28,0:13:05.92,Default,,0,0,0,,{\an1}Oh? Nagai-kun?
 Dialogue: 0,0:13:06.36,0:13:08.05,Default,,0,0,0,,Must be deleted.
 Dialogue: 0,0:13:10.80,0:13:12.05,Default,,0,0,0,,Was that...?
 Dialogue: 0,0:13:41.75,0:13:44.30,Default,,0,0,0,,The light was red!
-Dialogue: 0,0:13:44.30,0:13:46.30,Default,,0,0,0,,He's at fault!
+Dialogue: 0,0:13:44.30,0:13:46.30,Default,,0,0,0,,He’s at fault!
 Dialogue: 0,0:14:18.92,0:14:19.75,Default,,0,0,0,,No!
 Dialogue: 0,0:14:27.47,0:14:28.24,Default,,0,0,0,,An Ajin...
-Dialogue: 0,0:14:28.24,0:14:28.75,Default,,0,0,0,,H-{\alpha&FF&}He's one of them.
-Dialogue: 0,0:14:28.75,0:14:29.79,Default,,0,0,0,,H-He's one of them.
+Dialogue: 0,0:14:28.24,0:14:28.75,Default,,0,0,0,,H-{\alpha&FF&}He’s one of them.
+Dialogue: 0,0:14:28.75,0:14:29.79,Default,,0,0,0,,H-He’s one of them.
 Dialogue: 0,0:14:29.79,0:14:31.24,Default,,0,0,0,,I-I really am... {\alpha&FF&}One of them...
 Dialogue: 0,0:14:31.24,0:14:32.90,Default,,0,0,0,,I-I really am... One of them...
 Dialogue: 0,0:14:33.63,0:14:34.60,Default,,0,0,0,,N-{\alpha&FF&}N-No!
 Dialogue: 0,0:14:34.60,0:14:36.09,Default,,0,0,0,,N-N-{\alpha&FF&}No!
 Dialogue: 0,0:14:36.09,0:14:37.39,Default,,0,0,0,,N-N-No!
-Dialogue: 0,0:14:37.39,0:14:38.72,Default,,0,0,0,,I'm not... {\alpha&FF&}I am...
-Dialogue: 0,0:14:38.72,0:14:40.26,Default,,0,0,0,,I'm not... I am...
-Dialogue: 0,0:14:40.26,0:14:41.99,Default,,0,0,0,,I'm not!
+Dialogue: 0,0:14:37.39,0:14:38.72,Default,,0,0,0,,I’m not... {\alpha&FF&}I am...
+Dialogue: 0,0:14:38.72,0:14:40.26,Default,,0,0,0,,I’m not... I am...
+Dialogue: 0,0:14:40.26,0:14:41.99,Default,,0,0,0,,I’m not!
 Dialogue: 0,0:14:41.99,0:14:44.48,Default,,0,0,0,,I am human!
 Dialogue: 0,0:14:46.08,0:14:47.69,Default,,0,0,0,,{\an1}I believe you.
 Dialogue: 0,0:14:48.24,0:14:49.54,Default,,0,0,0,,We are friends, {\alpha&FF&}right?
 Dialogue: 0,0:14:49.54,0:14:50.61,Default,,0,0,0,,We are friends, right?
 Dialogue: 0,0:14:52.25,0:14:53.28,Default,,0,0,0,,A great reward...
-Dialogue: 0,0:14:53.28,0:14:54.50,Default,,0,0,0,,Ajin aren't human?
+Dialogue: 0,0:14:53.28,0:14:54.50,Default,,0,0,0,,Ajin aren’t human?
 Dialogue: 0,0:14:54.50,0:14:55.40,Default,,0,0,0,,Of course not.
 Dialogue: 0,0:15:04.39,0:15:05.30,Default,,0,0,0,,What did he...!?
 Dialogue: 0,0:15:10.93,0:15:13.61,Default,,0,0,0,,No... {\alpha&FF&}No!
@@ -219,8 +219,8 @@ Dialogue: 0,0:15:13.61,0:15:14.52,Default,,0,0,0,,No... No!
 Dialogue: 0,0:15:15.33,0:15:16.45,Default,,0,0,0,,No!
 Dialogue: 0,0:15:27.32,0:15:28.24,Default,,0,0,0,,{\an8}Oh, you. {\alpha&FF&}You got a sec?
 Dialogue: 0,0:15:28.24,0:15:29.47,Default,,0,0,0,,{\an8}Oh, you. You got a sec?
-Dialogue: 0,0:15:29.47,0:15:31.53,Default,,0,0,0,,{\an8}Do you know Nagai Kedo?
-Dialogue: 0,0:15:34.02,0:15:36.03,Default,,0,0,0,,{\an8}Don't know him.
+Dialogue: 0,0:15:29.47,0:15:31.53,Default,,0,0,0,,{\an8}Do you know Nagai Kei?
+Dialogue: 0,0:15:34.02,0:15:36.03,Default,,0,0,0,,{\an8}Don’t know him.
 Dialogue: 0,0:15:36.74,0:15:38.41,Default,,0,0,0,,{\an8}What did he do?
 Dialogue: 0,0:15:38.41,0:15:39.63,Default,,0,0,0,,{\an9}That kid, {\alpha&FF&}looks like he is an Ajin, an Ajin!
 Dialogue: 0,0:15:39.63,0:15:41.16,Default,,0,0,0,,{\an9}That kid, looks like he is an Ajin, {\alpha&FF&}an Ajin!
@@ -229,20 +229,20 @@ Dialogue: 0,0:15:42.14,0:15:43.22,Default,,0,0,0,,{\an9}Really! {\alpha&FF&}I sa
 Dialogue: 0,0:15:43.22,0:15:44.78,Default,,0,0,0,,{\an9}Really! I saw how he came back to life!
 Dialogue: 0,0:15:44.78,0:15:45.21,Default,,0,0,0,,{\an9}Yes!
 Dialogue: 0,0:15:45.21,0:15:46.65,Default,,0,0,0,,{\an8}Oh...?
-Dialogue: 0,0:15:46.65,0:15:48.05,Default,,0,0,0,,{\an8}I don't care about this.
-Dialogue: 0,0:15:48.05,0:15:49.98,Default,,0,0,0,,{\an8}Well, if you don't know something, it's good.
-Dialogue: 0,0:16:11.52,0:16:13.46,Default,,0,0,0,,It can't be... {\alpha&FF&}Are they home!?
-Dialogue: 0,0:16:13.46,0:16:14.89,Default,,0,0,0,,It can't be... Are they home!?
+Dialogue: 0,0:15:46.65,0:15:48.05,Default,,0,0,0,,{\an8}I don’t care about this.
+Dialogue: 0,0:15:48.05,0:15:49.98,Default,,0,0,0,,{\an8}Well, it’s okay if you don’t know anything.
+Dialogue: 0,0:16:11.52,0:16:13.46,Default,,0,0,0,,It can’t be... {\alpha&FF&}Are they home!?
+Dialogue: 0,0:16:13.46,0:16:14.89,Default,,0,0,0,,It can’t be... Are they home!?
 Dialogue: 0,0:16:16.19,0:16:17.64,Default,,0,0,0,,Where...? {\alpha&FF&}Where should I go to?
 Dialogue: 0,0:16:17.64,0:16:19.10,Default,,0,0,0,,Where...? Where should I go to?
-Dialogue: 0,0:16:40.58,0:16:41.90,Default,,0,0,0,,Someone... {\alpha&FF&}Someone... It can't be!
-Dialogue: 0,0:16:41.90,0:16:44.14,Default,,0,0,0,,Someone... Someone... {\alpha&FF&}It can't be!
-Dialogue: 0,0:16:44.14,0:16:45.49,Default,,0,0,0,,Someone... Someone... It can't be!
+Dialogue: 0,0:16:40.58,0:16:41.90,Default,,0,0,0,,Someone... {\alpha&FF&}Someone... It can’t be!
+Dialogue: 0,0:16:41.90,0:16:44.14,Default,,0,0,0,,Someone... Someone... {\alpha&FF&}It can’t be!
+Dialogue: 0,0:16:44.14,0:16:45.49,Default,,0,0,0,,Someone... Someone... It can’t be!
 Dialogue: 0,0:16:53.88,0:16:54.89,Default,,0,0,0,,Kei, {\alpha&FF&}look!
 Dialogue: 0,0:16:54.89,0:16:55.61,Default,,0,0,0,,{\fad(0,300)}Kei, look!
 Dialogue: 0,0:16:58.31,0:16:59.28,Default,,0,0,0,,{\t(370,0,1,\c&HC5C5C5&\3c&HC5C5C5&\4c&HC5C5C5&)}Kai...
-Dialogue: 0,0:17:12.09,0:17:13.16,Default,,0,0,0,,Kei, {\alpha&FF&}I've been waiting for you.
-Dialogue: 0,0:17:13.16,0:17:14.17,Default,,0,0,0,,Kei, I've been waiting for you.
+Dialogue: 0,0:17:12.09,0:17:13.16,Default,,0,0,0,,Kei, {\alpha&FF&}I’ve been waiting for you.
+Dialogue: 0,0:17:13.16,0:17:14.17,Default,,0,0,0,,Kei, I’ve been waiting for you.
 Dialogue: 0,0:17:14.40,0:17:15.31,Default,,0,0,0,,Kai! {\alpha&FF&}Um...
 Dialogue: 0,0:17:15.31,0:17:16.31,Default,,0,0,0,,Kai! Um...
 Dialogue: 0,0:17:16.31,0:17:17.28,Default,,0,0,0,,What should... {\alpha&FF&}What should I do?
@@ -250,34 +250,34 @@ Dialogue: 0,0:17:17.28,0:17:18.33,Default,,0,0,0,,What should... What should I d
 Dialogue: 0,0:17:19.06,0:17:19.93,Default,,0,0,0,,Calm down, {\alpha&FF&}where are you right now?
 Dialogue: 0,0:17:19.93,0:17:21.00,Default,,0,0,0,,Calm down, where are you right now?
 Dialogue: 0,0:17:21.70,0:17:22.90,Default,,0,0,0,,Now?
-Dialogue: 0,0:17:23.51,0:17:24.89,Default,,0,0,0,,{\t(780,0,1,\c&HC4C3C5&\3c&HC4C3C5&\4c&HC4C3C5&)}I'm in...
+Dialogue: 0,0:17:23.51,0:17:24.89,Default,,0,0,0,,{\t(780,0,1,\c&HC4C3C5&\3c&HC4C3C5&\4c&HC4C3C5&)}I’m in...
 Dialogue: 0,0:17:25.36,0:17:27.52,Default,,0,0,0,,{\t(1760,0,1,\c&HC5C5C4&\3c&HC5C5C4&\4c&HC5C5C4&)}I believe you.
 Dialogue: 0,0:17:28.99,0:17:30.15,Default,,0,0,0,,Um... {\alpha&FF&}Well...
 Dialogue: 0,0:17:30.15,0:17:31.15,Default,,0,0,0,,Um... Well...
-Dialogue: 0,0:17:35.44,0:17:36.61,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:17:35.44,0:17:36.61,Default,,0,0,0,,Don’t worry.
 Dialogue: 0,0:17:37.40,0:17:38.30,Default,,0,0,0,,Kai...
 Dialogue: 0,0:17:45.04,0:17:48.36,Default,,0,0,0,,Under the tree we caught that scarab once.
-Dialogue: 0,0:17:49.63,0:17:50.80,Default,,0,0,0,,I'll go now.
+Dialogue: 0,0:17:49.63,0:17:50.80,Default,,0,0,0,,I’ll go now.
 Dialogue: 0,0:18:07.91,0:18:08.40,Default,,0,0,0,,Kai!?
-Dialogue: 0,0:18:18.76,0:18:19.90,Default,,0,0,0,,I've found the Ajin, {\alpha&FF&}I need reinforcements!
-Dialogue: 0,0:18:19.90,0:18:20.82,Default,,0,0,0,,I've found the Ajin, I need reinforcements!
+Dialogue: 0,0:18:18.76,0:18:19.90,Default,,0,0,0,,I’ve found the Ajin, {\alpha&FF&}I need reinforcements!
+Dialogue: 0,0:18:19.90,0:18:20.82,Default,,0,0,0,,I’ve found the Ajin, I need reinforcements!
 Dialogue: 0,0:18:21.88,0:18:22.44,Default,,0,0,0,,Wait! {\alpha&FF&}Get back here!
 Dialogue: 0,0:18:22.44,0:18:23.66,Default,,0,0,0,,Wait! Get back here!
-Dialogue: 0,0:18:29.79,0:18:31.22,Default,,0,0,0,,I won't let him catch me! {\alpha&FF&}I won't let him catch me!
-Dialogue: 0,0:18:31.22,0:18:32.58,Default,,0,0,0,,I won't let him catch me! I won't let him catch me!
-Dialogue: 0,0:18:55.25,0:18:56.93,Default,,0,0,0,,I won't hurt you, {\alpha&FF&}just surrender.
-Dialogue: 0,0:18:56.93,0:18:58.48,Default,,0,0,0,,I won't hurt you, just surrender.
-Dialogue: 0,0:19:15.15,0:19:16.62,Default,,0,0,0,,Don't move! {\alpha&FF&}Don't move.
-Dialogue: 0,0:19:16.62,0:19:18.29,Default,,0,0,0,,Don't move! Don't move.
-Dialogue: 0,0:19:21.08,0:19:23.63,Default,,0,0,0,,I've found the Ajin, near the Tsuki temple, {\alpha&FF&}I've found the Ajin.
-Dialogue: 0,0:19:23.63,0:19:25.09,Default,,0,0,0,,I've found the Ajin, near the Tsuki temple, I've found the Ajin.
+Dialogue: 0,0:18:29.79,0:18:31.22,Default,,0,0,0,,I won’t let him catch me! {\alpha&FF&}I won’t let him catch me!
+Dialogue: 0,0:18:31.22,0:18:32.58,Default,,0,0,0,,I won’t let him catch me! I won’t let him catch me!
+Dialogue: 0,0:18:55.25,0:18:56.93,Default,,0,0,0,,I won’t hurt you, {\alpha&FF&}just surrender.
+Dialogue: 0,0:18:56.93,0:18:58.48,Default,,0,0,0,,I won’t hurt you, just surrender.
+Dialogue: 0,0:19:15.15,0:19:16.62,Default,,0,0,0,,Don’t move! {\alpha&FF&}Don’t move.
+Dialogue: 0,0:19:16.62,0:19:18.29,Default,,0,0,0,,Don’t move! Don’t move.
+Dialogue: 0,0:19:21.08,0:19:23.63,Default,,0,0,0,,I’ve found the Ajin, near the Tsuki temple, {\alpha&FF&}I’ve found the Ajin.
+Dialogue: 0,0:19:23.63,0:19:25.09,Default,,0,0,0,,I’ve found the Ajin, near the Tsuki temple, I’ve found the Ajin.
 Dialogue: 0,0:19:24.23,0:19:25.09,Default,,0,0,0,,{\3c&H450700&\an8}Ajin?
 Dialogue: 0,0:19:34.58,0:19:34.96,Default,,0,0,0,,Kai!
-Dialogue: 0,0:19:34.96,0:19:35.98,Default,,0,0,0,,Wait! {\alpha&FF&}Don't say names.
-Dialogue: 0,0:19:35.98,0:19:37.44,Default,,0,0,0,,Wait! Don't say names.
+Dialogue: 0,0:19:34.96,0:19:35.98,Default,,0,0,0,,Wait! {\alpha&FF&}Don’t say names.
+Dialogue: 0,0:19:35.98,0:19:37.44,Default,,0,0,0,,Wait! Don’t say names.
 Dialogue: 0,0:19:39.77,0:19:40.94,Default,,0,0,0,,Can you get up?
 Dialogue: 0,0:19:43.67,0:19:44.36,Default,,0,0,0,,Yes.
-Dialogue: 0,0:19:47.92,0:19:48.74,Default,,0,0,0,,Let's run!
+Dialogue: 0,0:19:47.92,0:19:48.74,Default,,0,0,0,,Let’s run!
 Dialogue: 0,0:19:54.00,0:19:55.48,Default,,0,0,0,,The Ajin is running! {\alpha&FF&}I repeat...
 Dialogue: 0,0:19:55.48,0:19:56.60,Default,,0,0,0,,The Ajin is running! I repeat...
 Dialogue: 0,0:19:56.60,0:19:58.17,Default,,0,0,0,,The Ajin is running! {\alpha&FF&}He seems to have a partner.
@@ -290,30 +290,30 @@ Dialogue: 0,0:20:33.87,0:20:37.11,Default,,0,0,0,,{\an8}the third Ajin in Japan 
 Dialogue: 0,0:20:37.11,0:20:40.17,Default,,0,0,0,,{\an8}This small town is in panic because of it.
 Dialogue: 0,0:20:40.46,0:20:42.79,Default,,0,0,0,,{\an8}I had my suspicions,
 Dialogue: 0,0:20:42.79,0:20:44.92,Default,,0,0,0,,{\an8}he didn’t seem like a human.
-Dialogue: 0,0:21:10.05,0:21:12.38,Default,,0,0,0,,He can be an Ajin, but he's still a brat.
-Dialogue: 0,0:21:12.38,0:21:14.05,Default,,0,0,0,,He won't get far.
+Dialogue: 0,0:21:10.05,0:21:12.38,Default,,0,0,0,,He can be an Ajin, but he’s still a brat.
+Dialogue: 0,0:21:12.38,0:21:14.05,Default,,0,0,0,,He won’t get far.
 Dialogue: 0,0:21:14.05,0:21:15.59,Default,,0,0,0,,Hurry up and catch him.
-Dialogue: 0,0:21:18.74,0:21:20.29,Default,,0,0,0,,Sorry for the delay, {\alpha&FF&}I'm Araki from Saitama's Police
-Dialogue: 0,0:21:20.29,0:21:21.96,Default,,0,0,0,,Sorry for the delay, I'm Araki from Saitama's Police.
-Dialogue: 0,0:21:22.12,0:21:24.73,Default,,0,0,0,,You're underestimating your situation.
+Dialogue: 0,0:21:18.74,0:21:20.29,Default,,0,0,0,,Sorry for the delay {\alpha&FF&}I’m Araki, from Saitama’s Police.
+Dialogue: 0,0:21:20.29,0:21:21.96,Default,,0,0,0,,Sorry for the delay. I’m Araki, from Saitama’s Police.
+Dialogue: 0,0:21:22.12,0:21:24.73,Default,,0,0,0,,You’re underestimating your situation.
 Dialogue: 0,0:21:25.95,0:21:27.85,Default,,0,0,0,,Even if you tell me that...
 Dialogue: 0,0:21:27.85,0:21:28.96,Default,,0,0,0,,We have enough people working on this...
 Dialogue: 0,0:21:28.96,0:21:31.00,Default,,0,0,0,,This is an incident of national degree.
 Dialogue: 0,0:21:32.27,0:21:33.13,Default,,0,0,0,,Yes...
 Dialogue: 0,0:21:33.37,0:21:42.24,Default,,0,0,0,,The treaties are equal around the world. If because of your incompetence, another country captures Nagai Kei...
-Dialogue: 0,0:21:42.24,0:21:44.20,Default,,0,0,0,,You know what'll happen, right?
+Dialogue: 0,0:21:42.24,0:21:44.20,Default,,0,0,0,,You know what’ll happen, right?
 Dialogue: 0,0:21:50.79,0:21:52.08,Default,,0,0,0,,Use the double, {\alpha&FF&}no...  Triple the personnel.
 Dialogue: 0,0:21:52.08,0:21:52.65,Default,,0,0,0,,Use the double, no...  {\alpha&FF&}Triple the personnel.
 Dialogue: 0,0:21:52.65,0:21:54.00,Default,,0,0,0,,Use the double, no...  Triple the personnel.
 Dialogue: 0,0:21:54.40,0:21:55.83,Default,,0,0,0,,Do everything you need to find him!
 Dialogue: 0,0:21:57.27,0:21:58.85,Default,,0,0,0,,A new Ajin, {\alpha&FF&}Nagai Kei.
 Dialogue: 0,0:21:58.85,0:22:00.20,Default,,0,0,0,,A new Ajin, Nagai Kei.
-Dialogue: 0,0:22:01.42,0:22:03.60,Default,,0,0,0,,We can't let him get away.
-Dialogue: 0,0:22:18.51,0:22:20.19,Default,,0,0,0,,I won't let them catch me.
+Dialogue: 0,0:22:01.42,0:22:03.60,Default,,0,0,0,,We can’t let him get away.
+Dialogue: 0,0:22:18.51,0:22:20.19,Default,,0,0,0,,I won’t let them catch me.
 Dialogue: 0,0:22:23.98,0:22:26.95,TBC,,0,0,0,,{\blur3\fad(1000,600)\b1\pos(1006.666,554.001)\alpha&H90&\3c&HFDFFC6&\1a&HFF&\t(955,1000,\1a&H00&)\t(2370,2415,\1a&HFF&)}To be continued
 Dialogue: 1,0:22:23.98,0:22:26.95,TBC,,0,0,0,,{\blur0.6\fad(1000,600)\b1\pos(1006.666,554.001)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(2370,2415,\1a&HFF&)}To be continued
 Dialogue: 2,0:22:23.98,0:22:26.95,TBC,,0,0,0,,{\be1}{\bord0\blur0.6\fad(1000,600)\b1\pos(1006.666,554.001)\4a&HFF&}To be continued
 Dialogue: 0,0:23:56.95,0:24:00.00,TBC,,0,0,0,,{\fad(1000,0)\1c&HAA1C00&\pos(640,274)}Next Episode
 Dialogue: 0,0:24:23.02,0:24:27.02,Episode Title,,0,0,0,,{\blur3\c&H0000B4&\pos(206.857,254)\alpha&H80&}Why did
 Dialogue: 1,0:24:23.02,0:24:27.02,Episode Title,,0,0,0,,{\blur0.6\c&H0000B9&\pos(206.857,254)}Why did
-Dialogue: 0,0:24:23.27,0:24:27.02,Episode Title,,0,0,0,,{\fad(1000,0)\pos(616,298.571)}things turn out this way? I didn't do anything wrong.
+Dialogue: 0,0:24:23.27,0:24:27.02,Episode Title,,0,0,0,,{\fad(1000,0)\pos(616,298.571)}things turn out this way? I didn’t do anything wrong.

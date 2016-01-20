@@ -103,11 +103,11 @@ Dialogue: 0,0:07:43.08,0:07:48.47,Default,Teacher,0,0,0,,The first contact with 
 Dialogue: 0,0:07:48.47,0:07:51.28,Default,Teacher,0,0,0,,The year you were born in.
 Dialogue: 0,0:07:52.66,0:07:56.95,Default,Teacher,0,0,0,,They were immortal soldiers, in that place known as “God’s Army”.
 Dialogue: 0,0:07:57.56,0:08:01.57,Default,Teacher,0,0,0,,Once they were caught by the American Army, the truth was discovered.
-Dialogue: 0,0:08:01.57,0:08:06.63,Default,Teacher,0,0,0,,Although there were efforts to hide it, the importance of the issue didn’t allow it.
+Dialogue: 0,0:08:01.57,0:08:06.63,Default,Teacher,0,0,0,,Although there were efforts to hide it,\Nthe importance of the issue didn’t allow it.
 Dialogue: 0,0:08:06.97,0:08:09.56,Default,Teacher,0,0,0,,At present day, it has been verified the existence of 46 all around the world,
 Dialogue: 0,0:08:09.56,0:08:12.80,Default,Teacher,0,0,0,,and in japan there are 2 of them.
 Dialogue: 0,0:08:12.80,0:08:16.17,Default,Teacher,0,0,0,,And it has been thought that there are Ajin that have not been located.
-Dialogue: 0,0:08:16.17,0:08:19.74,Default,Teacher,0,0,0,,At the end of the day, it’s known that they are Ajins if they don’t die.
+Dialogue: 0,0:08:16.17,0:08:19.74,Default,Teacher,0,0,0,,At the end of the day, it’s known\Nthat they are Ajins if they don’t die.
 Dialogue: 0,0:08:19.74,0:08:23.71,Default,Teacher,0,0,0,,Although, the possibility of an Ajin being in this place…
 Dialogue: 0,0:08:23.71,0:08:24.68,Default,Teacher,0,0,0,,Isn’t 0.
 Dialogue: 0,0:08:27.90,0:08:29.20,Default,Teacher,0,0,0,,Watanabe-kun.
@@ -193,13 +193,13 @@ Dialogue: 0,0:13:05.28,0:13:05.92,Default,,0,0,0,,{\an1}Oh? Nagai-Kun?
 Dialogue: 0,0:13:06.36,0:13:08.05,Default,,0,0,0,,Must be deleted.
 Dialogue: 0,0:13:10.80,0:13:12.05,Default,,0,0,0,,Was that...?
 Dialogue: 0,0:13:41.75,0:13:44.30,Default,,0,0,0,,The light was red!
-Dialogue: 0,0:13:44.30,0:13:46.30,Default,,0,0,0,,He's was at fault!
+Dialogue: 0,0:13:44.30,0:13:46.30,Default,,0,0,0,,He's at fault!
 Dialogue: 0,0:14:18.92,0:14:19.75,Default,,0,0,0,,No!
 Dialogue: 0,0:14:27.47,0:14:28.24,Default,,0,0,0,,An Ajin...
 Dialogue: 0,0:14:28.24,0:14:28.75,Default,,0,0,0,,H-{\alpha&FF&}He's one of them.
 Dialogue: 0,0:14:28.75,0:14:29.79,Default,,0,0,0,,H-He's one of them.
-Dialogue: 0,0:14:29.79,0:14:31.24,Default,,0,0,0,,I-I Really am... {\alpha&FF&}One of them...
-Dialogue: 0,0:14:31.24,0:14:32.90,Default,,0,0,0,,I-I Really am... One of them...
+Dialogue: 0,0:14:29.79,0:14:31.24,Default,,0,0,0,,I-I really am... {\alpha&FF&}One of them...
+Dialogue: 0,0:14:31.24,0:14:32.90,Default,,0,0,0,,I-I really am... One of them...
 Dialogue: 0,0:14:33.63,0:14:34.60,Default,,0,0,0,,N-{\alpha&FF&}N-No!
 Dialogue: 0,0:14:34.60,0:14:36.09,Default,,0,0,0,,N-N-{\alpha&FF&}No!
 Dialogue: 0,0:14:36.09,0:14:37.39,Default,,0,0,0,,N-N-No!
@@ -282,11 +282,11 @@ Dialogue: 0,0:19:54.00,0:19:55.48,Default,,0,0,0,,The Ajin is running! {\alpha&F
 Dialogue: 0,0:19:55.48,0:19:56.60,Default,,0,0,0,,The Ajin is running! I repeat...
 Dialogue: 0,0:19:56.60,0:19:58.17,Default,,0,0,0,,The Ajin is running! {\alpha&FF&}He seems to have a partner.
 Dialogue: 0,0:19:58.17,0:20:00.12,Default,,0,0,0,,The Ajin is running! He seems to have a partner.
-Dialogue: 0,0:20:00.12,0:20:01.54,Default,,0,0,0,,I need reinceforcements!
+Dialogue: 0,0:20:00.12,0:20:01.54,Default,,0,0,0,,I need reinforcements!
 Dialogue: 0,0:20:07.15,0:20:07.93,Default,,0,0,0,,Are you fine?
 Dialogue: 0,0:20:07.93,0:20:08.68,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:20:31.72,0:20:33.87,Default,,0,0,0,,{\an8}We’re in front of the Ajin’s house,
-Dialogue: 0,0:20:33.87,0:20:37.11,Default,,0,0,0,,{\an8}The thrid Ajin in Japan has been discovered, at the moment he’s fugitive.
+Dialogue: 0,0:20:33.87,0:20:37.11,Default,,0,0,0,,{\an8}the third Ajin in Japan has been discovered, at the moment he’s fugitive.
 Dialogue: 0,0:20:37.11,0:20:40.17,Default,,0,0,0,,{\an8}This small town is in panic because of it.
 Dialogue: 0,0:20:40.46,0:20:42.79,Default,,0,0,0,,{\an8}I had my suspicions,
 Dialogue: 0,0:20:42.79,0:20:44.92,Default,,0,0,0,,{\an8}he didn’t seem like a human.
@@ -300,7 +300,7 @@ Dialogue: 0,0:21:25.95,0:21:27.85,Default,,0,0,0,,Even if you tell me that...
 Dialogue: 0,0:21:27.85,0:21:28.96,Default,,0,0,0,,We have enough people working on this...
 Dialogue: 0,0:21:28.96,0:21:31.00,Default,,0,0,0,,This is an incident of national degree.
 Dialogue: 0,0:21:32.27,0:21:33.13,Default,,0,0,0,,Yes...
-Dialogue: 0,0:21:33.37,0:21:42.24,Default,,0,0,0,,The treaties are equal around the world, if because of your incompetence, another country captures Nagai Ken...
+Dialogue: 0,0:21:33.37,0:21:42.24,Default,,0,0,0,,The treaties are equal around the world. If because of your incompetence, another country captures Nagai Kei...
 Dialogue: 0,0:21:42.24,0:21:44.20,Default,,0,0,0,,You know what'll happen, right?
 Dialogue: 0,0:21:50.79,0:21:52.08,Default,,0,0,0,,Use the double, {\alpha&FF&}no...  Triple the personnel.
 Dialogue: 0,0:21:52.08,0:21:52.65,Default,,0,0,0,,Use the double, no...  {\alpha&FF&}Triple the personnel.
@@ -314,3 +314,6 @@ Dialogue: 0,0:22:23.98,0:22:26.95,TBC,,0,0,0,,{\blur3\fad(1000,600)\b1\pos(1006.
 Dialogue: 1,0:22:23.98,0:22:26.95,TBC,,0,0,0,,{\blur0.6\fad(1000,600)\b1\pos(1006.666,554.001)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(2370,2415,\1a&HFF&)}To be continued
 Dialogue: 2,0:22:23.98,0:22:26.95,TBC,,0,0,0,,{\be1}{\bord0\blur0.6\fad(1000,600)\b1\pos(1006.666,554.001)\4a&HFF&}To be continued
 Dialogue: 0,0:23:56.95,0:24:00.00,TBC,,0,0,0,,{\fad(1000,0)\1c&HAA1C00&\pos(640,274)}Next Episode
+Dialogue: 0,0:24:23.02,0:24:27.02,Episode Title,,0,0,0,,{\blur3\c&H0000B4&\pos(206.857,254)\alpha&H80&}Why did
+Dialogue: 1,0:24:23.02,0:24:27.02,Episode Title,,0,0,0,,{\blur0.6\c&H0000B9&\pos(206.857,254)}Why did
+Dialogue: 0,0:24:23.27,0:24:27.02,Episode Title,,0,0,0,,{\fad(1000,0)\pos(616,298.571)}things turn out this way? I didn't do anything wrong.
